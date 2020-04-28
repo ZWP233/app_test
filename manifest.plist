@@ -11,31 +11,31 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://192.168.77.60/App/MXT/MXT.ipa</string>
+					<string>http://192.168.78.25/App/BMN/BMN.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>display-image</string>
 					<key>url</key>
-					<string>http://192.168.77.60/App/MXT/mxt.png</string>
+					<string>http://192.168.78.25/App/BMN/58.png</string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>full-size-image</string>
 					<key>url</key>
-					<string>http://192.168.77.60/App/MXT/mxt_b.png</string>
+					<string>http://192.168.78.25/App/BMN/1024.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.youbank.ybt</string>
+				<string>com.dingfeng.bitmining</string>
 				<key>bundle-version</key>
-				<string>3.2.0</string>
+				<string>1.0.1</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>YouBank</string>
+				<string>Forbes</string>
 			</dict>
 		</dict>
 	</array>
